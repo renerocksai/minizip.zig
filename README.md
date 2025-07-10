@@ -13,3 +13,5 @@ candidate for integration with Zig
 I wanted basic zipping functionality where I would provide tuples of input and archive filenames - and this is the super-simple result!
 
 I am impressed by Grok 4, and will keep this implementation. I'll soon integrate it into [fj - The Commandline Company](https://github.com/technologylab-ai/fj), for even more natively zipped travel expense records 🤣!
+
+Oh, BTW: the short chat with Grok is available [here](https://x.com/i/grok/share/m5VYahDGfr4NIGKGLFFZxrHVQ)
